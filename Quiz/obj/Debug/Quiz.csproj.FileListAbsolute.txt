@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\FSD\ARTP\KeywordQuiz\src\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\student\Desktop\FSD\ARTP\KeywordQuiz\src\Quiz\bin\Debug\Quiz.exe
+C:\Users\student\Desktop\FSD\ARTP\KeywordQuiz\src\Quiz\bin\Debug\Quiz.pdb
+C:\Users\student\Desktop\FSD\ARTP\KeywordQuiz\src\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\FSD\ARTP\KeywordQuiz\src\Quiz\obj\Debug\Quiz.exe
+C:\Users\student\Desktop\FSD\ARTP\KeywordQuiz\src\Quiz\obj\Debug\Quiz.pdb
